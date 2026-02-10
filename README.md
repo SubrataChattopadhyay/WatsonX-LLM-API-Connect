@@ -1,4 +1,4 @@
-# Final Watson API Connect
+# Python Code to Connect WatsonX.ai API and directly use Watsonx Foundation Model (LLM)
 
 A lightweight, single-file Python application for connecting to IBM WatsonX and chatting with the Granite LLM via REST API.
 
@@ -105,3 +105,4 @@ Here are the steps to book a flight...
 ## More Information
 
 For detailed setup instructions, see: [How_to_generate_API_details.md](../watsonxAPIconnect/How_to_generate_API_details.md)
+
