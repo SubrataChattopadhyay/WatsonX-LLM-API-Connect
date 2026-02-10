@@ -1,4 +1,4 @@
-# watsonxAPIconnect
+# Watsonx API Connect Foundation Model (LLM)
 
 This small project provides a minimal Python client and CLI to interact with IBM watsonx-like endpoints (Granite) or OpenAI (gpt-5). It is intentionally generic — configure the endpoint path that matches your watsonx deployment.
 
@@ -28,3 +28,4 @@ Files
 - `watsonx_client.py`: client wrappers for generic REST-based watsonx endpoints and OpenAI.
 - `main.py`: interactive CLI.
 - `.env.example`: environment variable examples.
+
